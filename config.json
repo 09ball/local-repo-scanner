@@ -1,0 +1,31 @@
+{
+    "ignored_directories": [
+        "node_modules",
+        "vendor",
+        "bower_components",
+        ".yarn",
+        "__pycache__",
+        ".venv",
+        "venv",
+        "env",
+        ".env",
+        ".tox",
+        ".pytest_cache",
+        "build",
+        "dist",
+        "out",
+        "target",
+        ".next",
+        ".nuxt",
+        ".cache",
+        ".gradle",
+        "obj",
+        ".idea",
+        ".vscode",
+        ".settings",
+        ".DS_Store",
+        "Thumbs.db",
+        "$RECYCLE.BIN",
+        ".Trash"
+    ]
+}
